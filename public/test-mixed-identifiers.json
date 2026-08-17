@@ -1,0 +1,562 @@
+[
+  {
+    "state": "CA",
+    "jobs": 45000,
+    "growth": 8.5,
+    "sector": "Technology",
+    "remote_workers": 85000,
+    "avg_salary": 125000
+  },
+  {
+    "abbreviation": "TX",
+    "jobs": 28000,
+    "growth": 9.2,
+    "sector": "Energy",
+    "remote_workers": 62000,
+    "avg_salary": 98000
+  },
+  {
+    "State": "Florida",
+    "jobs": 18000,
+    "growth": 8.7,
+    "sector": "Tourism",
+    "remote_workers": 45000,
+    "avg_salary": 88000
+  },
+  {
+    "id": "NY",
+    "jobs": 35000,
+    "growth": 6.2,
+    "sector": "Finance",
+    "remote_workers": 75000,
+    "avg_salary": 115000
+  },
+  {
+    "code": "06",
+    "jobs": 45000,
+    "growth": 8.5,
+    "sector": "Technology",
+    "remote_workers": 85000,
+    "avg_salary": 125000
+  },
+  {
+    "state": "Washington",
+    "jobs": 22000,
+    "growth": 7.8,
+    "sector": "Cloud Computing",
+    "remote_workers": 55000,
+    "avg_salary": 118000
+  },
+  {
+    "abbreviation": "IL",
+    "jobs": 20000,
+    "growth": 5.8,
+    "sector": "Corporate",
+    "remote_workers": 35000,
+    "avg_salary": 102000
+  },
+  {
+    "State": "Pennsylvania",
+    "jobs": 14000,
+    "growth": 6.1,
+    "sector": "Healthcare",
+    "remote_workers": 28000,
+    "avg_salary": 88000
+  },
+  {
+    "id": "OH",
+    "jobs": 12000,
+    "growth": 5.5,
+    "sector": "Industrial",
+    "remote_workers": 22000,
+    "avg_salary": 82000
+  },
+  {
+    "code": "13",
+    "jobs": 16000,
+    "growth": 7.9,
+    "sector": "Business Tech",
+    "remote_workers": 32000,
+    "avg_salary": 92000
+  },
+  {
+    "state": "Massachusetts",
+    "jobs": 18000,
+    "growth": 6.8,
+    "sector": "Innovation",
+    "remote_workers": 40000,
+    "avg_salary": 112000
+  },
+  {
+    "abbreviation": "MI",
+    "jobs": 10000,
+    "growth": 6.8,
+    "sector": "Auto Tech",
+    "remote_workers": 18000,
+    "avg_salary": 85000
+  },
+  {
+    "State": "New Jersey",
+    "jobs": 12000,
+    "growth": 7.2,
+    "sector": "Fintech",
+    "remote_workers": 25000,
+    "avg_salary": 97000
+  },
+  {
+    "id": "VA",
+    "jobs": 16000,
+    "growth": 6.5,
+    "sector": "Government Tech",
+    "remote_workers": 28000,
+    "avg_salary": 108000
+  },
+  {
+    "code": "37",
+    "jobs": 14000,
+    "growth": 8.1,
+    "sector": "Research Triangle",
+    "remote_workers": 28000,
+    "avg_salary": 95000
+  },
+  {
+    "state": "Georgia",
+    "jobs": 16000,
+    "growth": 7.9,
+    "sector": "Business Tech",
+    "remote_workers": 32000,
+    "avg_salary": 92000
+  },
+  {
+    "abbreviation": "MN",
+    "jobs": 10000,
+    "growth": 6.4,
+    "sector": "FinTech",
+    "remote_workers": 20000,
+    "avg_salary": 95000
+  },
+  {
+    "State": "Arizona",
+    "jobs": 12000,
+    "growth": 8.3,
+    "sector": "Desert Tech",
+    "remote_workers": 25000,
+    "avg_salary": 90000
+  },
+  {
+    "id": "CO",
+    "jobs": 15000,
+    "growth": 7.5,
+    "sector": "Startup Hub",
+    "remote_workers": 35000,
+    "avg_salary": 105000
+  },
+  {
+    "code": "48",
+    "jobs": 28000,
+    "growth": 9.2,
+    "sector": "Energy",
+    "remote_workers": 62000,
+    "avg_salary": 98000
+  },
+  {
+    "state": "Utah",
+    "jobs": 9000,
+    "growth": 9.5,
+    "sector": "Silicon Slopes",
+    "remote_workers": 20000,
+    "avg_salary": 92000
+  },
+  {
+    "abbreviation": "NC",
+    "jobs": 14000,
+    "growth": 8.1,
+    "sector": "Research Triangle",
+    "remote_workers": 28000,
+    "avg_salary": 95000
+  },
+  {
+    "State": "Tennessee",
+    "jobs": 8000,
+    "growth": 8.0,
+    "sector": "Music & Tech",
+    "remote_workers": 16000,
+    "avg_salary": 85000
+  },
+  {
+    "id": "OR",
+    "jobs": 8000,
+    "growth": 6.9,
+    "sector": "Creative Tech",
+    "remote_workers": 18000,
+    "avg_salary": 105000
+  },
+  {
+    "code": "15",
+    "jobs": 1400,
+    "growth": 6.5,
+    "sector": "Tourism Tech",
+    "remote_workers": 3000,
+    "avg_salary": 85000
+  },
+  {
+    "state": "Maryland",
+    "jobs": 11000,
+    "growth": 6.7,
+    "sector": "Cybersecurity",
+    "remote_workers": 22000,
+    "avg_salary": 110000
+  },
+  {
+    "abbreviation": "WI",
+    "jobs": 6000,
+    "growth": 5.2,
+    "sector": "Manufacturing Tech",
+    "remote_workers": 12000,
+    "avg_salary": 78000
+  },
+  {
+    "State": "Connecticut",
+    "jobs": 6000,
+    "growth": 4.8,
+    "sector": "Finance Tech",
+    "remote_workers": 12000,
+    "avg_salary": 105000
+  },
+  {
+    "id": "MO",
+    "jobs": 7000,
+    "growth": 5.8,
+    "sector": "Enterprise Tech",
+    "remote_workers": 14000,
+    "avg_salary": 80000
+  },
+  {
+    "code": "26",
+    "jobs": 10000,
+    "growth": 6.8,
+    "sector": "Auto Tech",
+    "remote_workers": 18000,
+    "avg_salary": 85000
+  },
+  {
+    "state": "Nevada",
+    "jobs": 4500,
+    "growth": 7.2,
+    "sector": "Gaming Tech",
+    "remote_workers": 9000,
+    "avg_salary": 88000
+  },
+  {
+    "abbreviation": "SC",
+    "jobs": 5000,
+    "growth": 7.3,
+    "sector": "Manufacturing Tech",
+    "remote_workers": 10000,
+    "avg_salary": 78000
+  },
+  {
+    "State": "New Hampshire",
+    "jobs": 2800,
+    "growth": 5.7,
+    "sector": "Software Dev",
+    "remote_workers": 6000,
+    "avg_salary": 85000
+  },
+  {
+    "id": "AL",
+    "jobs": 4200,
+    "growth": 6.4,
+    "sector": "Aerospace",
+    "remote_workers": 8000,
+    "avg_salary": 74000
+  },
+  {
+    "code": "29",
+    "jobs": 7000,
+    "growth": 5.8,
+    "sector": "Enterprise Tech",
+    "remote_workers": 14000,
+    "avg_salary": 80000
+  },
+  {
+    "state": "Louisiana",
+    "jobs": 3000,
+    "growth": 5.1,
+    "sector": "Petrotech",
+    "remote_workers": 6000,
+    "avg_salary": 70000
+  },
+  {
+    "abbreviation": "KY",
+    "jobs": 4000,
+    "growth": 6.0,
+    "sector": "Logistics Tech",
+    "remote_workers": 8000,
+    "avg_salary": 72000
+  },
+  {
+    "State": "Oregon",
+    "jobs": 8000,
+    "growth": 6.9,
+    "sector": "Creative Tech",
+    "remote_workers": 18000,
+    "avg_salary": 105000
+  },
+  {
+    "id": "OK",
+    "jobs": 3200,
+    "growth": 6.2,
+    "sector": "Energy Tech",
+    "remote_workers": 6000,
+    "avg_salary": 68000
+  },
+  {
+    "code": "09",
+    "jobs": 6000,
+    "growth": 4.8,
+    "sector": "Finance Tech",
+    "remote_workers": 12000,
+    "avg_salary": 105000
+  },
+  {
+    "state": "Arkansas",
+    "jobs": 2800,
+    "growth": 6.8,
+    "sector": "Retail Tech",
+    "remote_workers": 6000,
+    "avg_salary": 65000
+  },
+  {
+    "abbreviation": "KS",
+    "jobs": 3500,
+    "growth": 5.5,
+    "sector": "AgTech",
+    "remote_workers": 7000,
+    "avg_salary": 72000
+  },
+  {
+    "State": "Utah",
+    "jobs": 9000,
+    "growth": 9.5,
+    "sector": "Silicon Slopes",
+    "remote_workers": 20000,
+    "avg_salary": 92000
+  },
+  {
+    "id": "NE",
+    "jobs": 2500,
+    "growth": 6.0,
+    "sector": "FinTech",
+    "remote_workers": 5000,
+    "avg_salary": 72000
+  },
+  {
+    "code": "55",
+    "jobs": 6000,
+    "growth": 5.2,
+    "sector": "Manufacturing Tech",
+    "remote_workers": 12000,
+    "avg_salary": 78000
+  },
+  {
+    "state": "Hawaii",
+    "jobs": 1400,
+    "growth": 6.5,
+    "sector": "Tourism Tech",
+    "remote_workers": 3000,
+    "avg_salary": 85000
+  },
+  {
+    "abbreviation": "IA",
+    "jobs": 3000,
+    "growth": 5.8,
+    "sector": "InsurTech",
+    "remote_workers": 6000,
+    "avg_salary": 70000
+  },
+  {
+    "State": "Maine",
+    "jobs": 1800,
+    "growth": 6.3,
+    "sector": "Remote-First Tech",
+    "remote_workers": 4000,
+    "avg_salary": 78000
+  },
+  {
+    "id": "MT",
+    "jobs": 1000,
+    "growth": 7.1,
+    "sector": "AgTech & Remote",
+    "remote_workers": 2000,
+    "avg_salary": 70000
+  },
+  {
+    "code": "46",
+    "jobs": 900,
+    "growth": 6.2,
+    "sector": "Financial Services Tech",
+    "remote_workers": 2000,
+    "avg_salary": 68000
+  },
+  {
+    "state": "New Mexico",
+    "jobs": 2000,
+    "growth": 5.9,
+    "sector": "Research Tech",
+    "remote_workers": 4000,
+    "avg_salary": 75000
+  },
+  {
+    "abbreviation": "AK",
+    "jobs": 800,
+    "growth": 4.9,
+    "sector": "Resource Tech",
+    "remote_workers": 1500,
+    "avg_salary": 78000
+  },
+  {
+    "State": "Mississippi",
+    "jobs": 2200,
+    "growth": 5.7,
+    "sector": "Gov & Ag Tech",
+    "remote_workers": 4500,
+    "avg_salary": 65000
+  },
+  {
+    "id": "ND",
+    "jobs": 700,
+    "growth": 6.8,
+    "sector": "Oil & Gas Tech",
+    "remote_workers": 1500,
+    "avg_salary": 75000
+  },
+  {
+    "code": "56",
+    "jobs": 600,
+    "growth": 5.3,
+    "sector": "Energy & Mining Tech",
+    "remote_workers": 1200,
+    "avg_salary": 72000
+  },
+  {
+    "state": "West Virginia",
+    "jobs": 1500,
+    "growth": 4.8,
+    "sector": "Energy & Gov Tech",
+    "remote_workers": 3000,
+    "avg_salary": 68000
+  },
+  {
+    "abbreviation": "VT",
+    "jobs": 1200,
+    "growth": 6.1,
+    "sector": "Sustainable Tech",
+    "remote_workers": 2500,
+    "avg_salary": 75000
+  },
+  {
+    "State": "Indiana",
+    "jobs": 5500,
+    "growth": 6.1,
+    "sector": "Logistics Tech",
+    "remote_workers": 11000,
+    "avg_salary": 75000
+  },
+  {
+    "id": "RI",
+    "jobs": 1500,
+    "growth": 5.4,
+    "sector": "Healthcare Tech",
+    "remote_workers": 3000,
+    "avg_salary": 82000
+  },
+  {
+    "code": "24",
+    "jobs": 11000,
+    "growth": 6.7,
+    "sector": "Cybersecurity",
+    "remote_workers": 22000,
+    "avg_salary": 110000
+  },
+  {
+    "state": "Delaware",
+    "jobs": 1800,
+    "growth": 5.8,
+    "sector": "Corporate Tech",
+    "remote_workers": 3500,
+    "avg_salary": 88000
+  },
+  {
+    "abbreviation": "SD",
+    "jobs": 900,
+    "growth": 6.2,
+    "sector": "Financial Services Tech",
+    "remote_workers": 2000,
+    "avg_salary": 68000
+  },
+  {
+    "State": "North Dakota",
+    "jobs": 700,
+    "growth": 6.8,
+    "sector": "Oil & Gas Tech",
+    "remote_workers": 1500,
+    "avg_salary": 75000
+  },
+  {
+    "id": "Wyoming",
+    "jobs": 600,
+    "growth": 5.3,
+    "sector": "Energy & Mining Tech",
+    "remote_workers": 1200,
+    "avg_salary": 72000
+  },
+  {
+    "code": "54",
+    "jobs": 1500,
+    "growth": 4.8,
+    "sector": "Energy & Gov Tech",
+    "remote_workers": 3000,
+    "avg_salary": 68000
+  },
+  {
+    "state": "Montana",
+    "jobs": 1000,
+    "growth": 7.1,
+    "sector": "AgTech & Remote",
+    "remote_workers": 2000,
+    "avg_salary": 70000
+  },
+  {
+    "abbreviation": "ME",
+    "jobs": 1800,
+    "growth": 6.3,
+    "sector": "Remote-First Tech",
+    "remote_workers": 4000,
+    "avg_salary": 78000
+  },
+  {
+    "State": "New Hampshire",
+    "jobs": 2800,
+    "growth": 5.7,
+    "sector": "Software Dev",
+    "remote_workers": 6000,
+    "avg_salary": 85000
+  },
+  {
+    "id": "Vermont",
+    "jobs": 1200,
+    "growth": 6.1,
+    "sector": "Sustainable Tech",
+    "remote_workers": 2500,
+    "avg_salary": 75000
+  },
+  {
+    "code": "33",
+    "jobs": 2800,
+    "growth": 5.7,
+    "sector": "Software Dev",
+    "remote_workers": 6000,
+    "avg_salary": 85000
+  }
+]

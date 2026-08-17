@@ -1,0 +1,294 @@
+{
+  "states": [
+    {
+      "abbreviation": "CA",
+      "name": "California",
+      "metrics": {
+        "population": 39512223,
+        "gdp": {
+          "total_billions": 3600,
+          "per_capita": 91000,
+          "growth_rate": 5.2
+        },
+        "technology": {
+          "companies": 45000,
+          "employees": 2500000,
+          "avg_salary": 125000,
+          "remote_percentage": 85,
+          "top_skills": ["React", "Node.js", "Python", "AWS", "TypeScript"]
+        },
+        "education": {
+          "universities": 340,
+          "stem_graduates": 125000,
+          "research_funding_billions": 18.5
+        },
+        "infrastructure": {
+          "broadband_coverage": 94.5,
+          "data_centers": 1200,
+          "renewable_energy_percentage": 45.2
+        }
+      }
+    },
+    {
+      "abbreviation": "TX",
+      "name": "Texas",
+      "metrics": {
+        "population": 28995881,
+        "gdp": {
+          "total_billions": 2400,
+          "per_capita": 82700,
+          "growth_rate": 4.8
+        },
+        "technology": {
+          "companies": 28000,
+          "employees": 1800000,
+          "avg_salary": 98000,
+          "remote_percentage": 82,
+          "top_skills": ["React", "Angular", "Java", "AWS", "Python"]
+        },
+        "education": {
+          "universities": 250,
+          "stem_graduates": 95000,
+          "research_funding_billions": 12.3
+        },
+        "infrastructure": {
+          "broadband_coverage": 89.2,
+          "data_centers": 850,
+          "renewable_energy_percentage": 38.7
+        }
+      }
+    },
+    {
+      "abbreviation": "NY",
+      "name": "New York",
+      "metrics": {
+        "population": 19453561,
+        "gdp": {
+          "total_billions": 2000,
+          "per_capita": 102800,
+          "growth_rate": 2.1
+        },
+        "technology": {
+          "companies": 35000,
+          "employees": 1500000,
+          "avg_salary": 115000,
+          "remote_percentage": 75,
+          "top_skills": ["React", "Node.js", "Angular", "Java", "GraphQL"]
+        },
+        "education": {
+          "universities": 320,
+          "stem_graduates": 110000,
+          "research_funding_billions": 16.8
+        },
+        "infrastructure": {
+          "broadband_coverage": 96.3,
+          "data_centers": 650,
+          "renewable_energy_percentage": 32.1
+        }
+      }
+    },
+    {
+      "abbreviation": "FL",
+      "name": "Florida",
+      "metrics": {
+        "population": 21477737,
+        "gdp": {
+          "total_billions": 1000,
+          "per_capita": 46500,
+          "growth_rate": 3.9
+        },
+        "technology": {
+          "companies": 18000,
+          "employees": 900000,
+          "avg_salary": 88000,
+          "remote_percentage": 80,
+          "top_skills": ["React", "Node.js", "Angular", "PHP", "Python"]
+        },
+        "education": {
+          "universities": 200,
+          "stem_graduates": 65000,
+          "research_funding_billions": 7.2
+        },
+        "infrastructure": {
+          "broadband_coverage": 91.8,
+          "data_centers": 420,
+          "renewable_energy_percentage": 28.5
+        }
+      }
+    },
+    {
+      "abbreviation": "IL",
+      "name": "Illinois",
+      "metrics": {
+        "population": 12671821,
+        "gdp": {
+          "total_billions": 900,
+          "per_capita": 71000,
+          "growth_rate": 2.3
+        },
+        "technology": {
+          "companies": 20000,
+          "employees": 800000,
+          "avg_salary": 102000,
+          "remote_percentage": 70,
+          "top_skills": ["React", "Angular", "Node.js", "Java", ".NET"]
+        },
+        "education": {
+          "universities": 180,
+          "stem_graduates": 55000,
+          "research_funding_billions": 9.8
+        },
+        "infrastructure": {
+          "broadband_coverage": 92.5,
+          "data_centers": 380,
+          "renewable_energy_percentage": 35.2
+        }
+      }
+    },
+    {
+      "abbreviation": "PA",
+      "name": "Pennsylvania",
+      "metrics": {
+        "population": 12801989,
+        "gdp": {
+          "total_billions": 900,
+          "per_capita": 70300,
+          "growth_rate": 1.8
+        },
+        "technology": {
+          "companies": 14000,
+          "employees": 650000,
+          "avg_salary": 88000,
+          "remote_percentage": 72,
+          "top_skills": ["React", "Angular", "Node.js", "Java", "Python"]
+        },
+        "education": {
+          "universities": 200,
+          "stem_graduates": 48000,
+          "research_funding_billions": 8.5
+        },
+        "infrastructure": {
+          "broadband_coverage": 90.2,
+          "data_centers": 320,
+          "renewable_energy_percentage": 30.8
+        }
+      }
+    },
+    {
+      "abbreviation": "OH",
+      "name": "Ohio",
+      "metrics": {
+        "population": 11689100,
+        "gdp": {
+          "total_billions": 810,
+          "per_capita": 69300,
+          "growth_rate": 1.9
+        },
+        "technology": {
+          "companies": 12000,
+          "employees": 550000,
+          "avg_salary": 82000,
+          "remote_percentage": 68,
+          "top_skills": ["React", "Angular", "Node.js", ".NET", "Java"]
+        },
+        "education": {
+          "universities": 170,
+          "stem_graduates": 42000,
+          "research_funding_billions": 7.2
+        },
+        "infrastructure": {
+          "broadband_coverage": 88.5,
+          "data_centers": 280,
+          "renewable_energy_percentage": 28.3
+        }
+      }
+    },
+    {
+      "abbreviation": "GA",
+      "name": "Georgia",
+      "metrics": {
+        "population": 10617423,
+        "gdp": {
+          "total_billions": 620,
+          "per_capita": 58400,
+          "growth_rate": 4.2
+        },
+        "technology": {
+          "companies": 16000,
+          "employees": 720000,
+          "avg_salary": 92000,
+          "remote_percentage": 73,
+          "top_skills": ["React", "Angular", "Node.js", "Java", "Python"]
+        },
+        "education": {
+          "universities": 140,
+          "stem_graduates": 38000,
+          "research_funding_billions": 6.5
+        },
+        "infrastructure": {
+          "broadband_coverage": 89.8,
+          "data_centers": 350,
+          "renewable_energy_percentage": 32.5
+        }
+      }
+    },
+    {
+      "abbreviation": "NC",
+      "name": "North Carolina",
+      "metrics": {
+        "population": 10488084,
+        "gdp": {
+          "total_billions": 650,
+          "per_capita": 62000,
+          "growth_rate": 3.8
+        },
+        "technology": {
+          "companies": 14000,
+          "employees": 650000,
+          "avg_salary": 95000,
+          "remote_percentage": 75,
+          "top_skills": ["React", "Node.js", "Angular", "Python", "AWS"]
+        },
+        "education": {
+          "universities": 130,
+          "stem_graduates": 35000,
+          "research_funding_billions": 5.8
+        },
+        "infrastructure": {
+          "broadband_coverage": 88.2,
+          "data_centers": 290,
+          "renewable_energy_percentage": 34.1
+        }
+      }
+    },
+    {
+      "abbreviation": "MI",
+      "name": "Michigan",
+      "metrics": {
+        "population": 9986857,
+        "gdp": {
+          "total_billions": 560,
+          "per_capita": 56100,
+          "growth_rate": 2.1
+        },
+        "technology": {
+          "companies": 10000,
+          "employees": 480000,
+          "avg_salary": 85000,
+          "remote_percentage": 70,
+          "top_skills": ["React", "Angular", "Node.js", "Java", "Python"]
+        },
+        "education": {
+          "universities": 150,
+          "stem_graduates": 40000,
+          "research_funding_billions": 6.8
+        },
+        "infrastructure": {
+          "broadband_coverage": 87.5,
+          "data_centers": 220,
+          "renewable_energy_percentage": 26.8
+        }
+      }
+    }
+  ]
+}

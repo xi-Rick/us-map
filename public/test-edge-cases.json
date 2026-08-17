@@ -1,0 +1,277 @@
+[
+  {
+    "state": "CA",
+    "value": 95,
+    "note": "Valid - uses abbreviation"
+  },
+  {
+    "state": "California",
+    "value": 92,
+    "note": "Valid - uses full name"
+  },
+  {
+    "state": "06",
+    "value": 88,
+    "note": "Valid - uses FIPS code"
+  },
+  {
+    "state": "NY",
+    "value": 91,
+    "note": "Valid - another abbreviation"
+  },
+  {
+    "state": "INVALID_STATE",
+    "value": 50,
+    "note": "Invalid - should be skipped"
+  },
+  {
+    "state": "XX",
+    "value": 45,
+    "note": "Invalid - non-existent state"
+  },
+  {
+    "state": "CA",
+    "value": null,
+    "note": "Invalid - null value"
+  },
+  {
+    "state": "TX",
+    "value": "not_a_number",
+    "note": "Invalid - string value"
+  },
+  {
+    "state": "FL",
+    "value": "",
+    "note": "Invalid - empty string value"
+  },
+  {
+    "state": "IL",
+    "value": 75,
+    "note": "Valid"
+  },
+  {
+    "state": "PA",
+    "value": 74,
+    "note": "Valid"
+  },
+  {
+    "state": "OH",
+    "value": 66,
+    "note": "Valid"
+  },
+  {
+    "state": "GA",
+    "value": 71,
+    "note": "Valid"
+  },
+  {
+    "state": "NC",
+    "value": 74,
+    "note": "Valid"
+  },
+  {
+    "state": "MI",
+    "value": 69,
+    "note": "Valid"
+  },
+  {
+    "state": "NJ",
+    "value": 83,
+    "note": "Valid"
+  },
+  {
+    "state": "VA",
+    "value": 76,
+    "note": "Valid"
+  },
+  {
+    "state": "WA",
+    "value": 81,
+    "note": "Valid"
+  },
+  {
+    "state": "AZ",
+    "value": 84,
+    "note": "Valid"
+  },
+  {
+    "state": "MA",
+    "value": 86,
+    "note": "Valid"
+  },
+  {
+    "state": "TN",
+    "value": 57,
+    "note": "Valid"
+  },
+  {
+    "state": "IN",
+    "value": 63,
+    "note": "Valid"
+  },
+  {
+    "state": "MO",
+    "value": 61,
+    "note": "Valid"
+  },
+  {
+    "state": "MD",
+    "value": 79,
+    "note": "Valid"
+  },
+  {
+    "state": "WI",
+    "value": 65,
+    "note": "Valid"
+  },
+  {
+    "state": "CO",
+    "value": 67,
+    "note": "Valid"
+  },
+  {
+    "state": "MN",
+    "value": 72,
+    "note": "Valid"
+  },
+  {
+    "state": "SC",
+    "value": 62,
+    "note": "Valid"
+  },
+  {
+    "state": "AL",
+    "value": 52,
+    "note": "Valid"
+  },
+  {
+    "state": "LA",
+    "value": 58,
+    "note": "Valid"
+  },
+  {
+    "state": "KY",
+    "value": 41,
+    "note": "Valid"
+  },
+  {
+    "state": "OR",
+    "value": 70,
+    "note": "Valid"
+  },
+  {
+    "state": "OK",
+    "value": 55,
+    "note": "Valid"
+  },
+  {
+    "state": "CT",
+    "value": 73,
+    "note": "Valid"
+  },
+  {
+    "state": "UT",
+    "value": 60,
+    "note": "Valid"
+  },
+  {
+    "state": "IA",
+    "value": 49,
+    "note": "Valid"
+  },
+  {
+    "state": "NV",
+    "value": 77,
+    "note": "Valid"
+  },
+  {
+    "state": "AR",
+    "value": 45,
+    "note": "Valid"
+  },
+  {
+    "state": "MS",
+    "value": 38,
+    "note": "Valid"
+  },
+  {
+    "state": "KS",
+    "value": 54,
+    "note": "Valid"
+  },
+  {
+    "state": "NM",
+    "value": 64,
+    "note": "Valid"
+  },
+  {
+    "state": "NE",
+    "value": 51,
+    "note": "Valid"
+  },
+  {
+    "state": "ID",
+    "value": 56,
+    "note": "Valid"
+  },
+  {
+    "state": "WV",
+    "value": 42,
+    "note": "Valid"
+  },
+  {
+    "state": "HI",
+    "value": 82,
+    "note": "Valid"
+  },
+  {
+    "state": "NH",
+    "value": 68,
+    "note": "Valid"
+  },
+  {
+    "state": "ME",
+    "value": 65,
+    "note": "Valid"
+  },
+  {
+    "state": "MT",
+    "value": 47,
+    "note": "Valid"
+  },
+  {
+    "state": "RI",
+    "value": 78,
+    "note": "Valid"
+  },
+  {
+    "state": "DE",
+    "value": 59,
+    "note": "Valid"
+  },
+  {
+    "state": "SD",
+    "value": 46,
+    "note": "Valid"
+  },
+  {
+    "state": "ND",
+    "value": 43,
+    "note": "Valid"
+  },
+  {
+    "state": "AK",
+    "value": 76,
+    "note": "Valid"
+  },
+  {
+    "state": "VT",
+    "value": 50,
+    "note": "Valid"
+  },
+  {
+    "state": "WY",
+    "value": 39,
+    "note": "Valid"
+  }
+]

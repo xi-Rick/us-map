@@ -1,0 +1,848 @@
+[
+  {
+    "state": "California",
+    "abbreviation": "CA",
+    "value": 95,
+    "category": "Tech Giant Hub",
+    "job_count": 45000,
+    "avg_salary": 125000,
+    "remote_percentage": 85,
+    "growth_rate": 8.5,
+    "top_skills": ["React", "Node.js", "TypeScript", "Python", "AWS"],
+    "major_companies": ["Google", "Meta", "Apple", "Netflix", "Adobe"]
+  },
+  {
+    "state": "Washington",
+    "abbreviation": "WA",
+    "value": 93,
+    "category": "Cloud Computing Hub",
+    "job_count": 22000,
+    "avg_salary": 118000,
+    "remote_percentage": 80,
+    "growth_rate": 7.8,
+    "top_skills": ["React", "AWS", "Node.js", "TypeScript", "Docker"],
+    "major_companies": ["Microsoft", "Amazon", "Expedia", "Zillow", "T-Mobile"]
+  },
+  {
+    "state": "New York",
+    "abbreviation": "NY",
+    "value": 91,
+    "category": "Fintech Hub",
+    "job_count": 35000,
+    "avg_salary": 115000,
+    "remote_percentage": 75,
+    "growth_rate": 6.2,
+    "top_skills": ["React", "Node.js", "Angular", "Java", "GraphQL"],
+    "major_companies": [
+      "JPMorgan",
+      "Goldman Sachs",
+      "Stripe",
+      "MongoDB",
+      "Datadog"
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "abbreviation": "MA",
+    "value": 89,
+    "category": "Innovation Hub",
+    "job_count": 18000,
+    "avg_salary": 112000,
+    "remote_percentage": 78,
+    "growth_rate": 6.8,
+    "top_skills": ["React", "Node.js", "Python", "TypeScript", "Vue.js"],
+    "major_companies": ["HubSpot", "Wayfair", "Toast", "DraftKings", "Rapid7"]
+  },
+  {
+    "state": "Texas",
+    "abbreviation": "TX",
+    "value": 88,
+    "category": "Emerging Tech Hub",
+    "job_count": 28000,
+    "avg_salary": 98000,
+    "remote_percentage": 82,
+    "growth_rate": 9.2,
+    "top_skills": ["React", "Node.js", "Angular", "AWS", "MongoDB"],
+    "major_companies": ["Dell", "IBM", "AT&T", "Indeed", "Rackspace"]
+  },
+  {
+    "state": "New Jersey",
+    "abbreviation": "NJ",
+    "value": 87,
+    "category": "Fintech & Pharmatech Hub",
+    "job_count": 12000,
+    "avg_salary": 97000,
+    "remote_percentage": 79,
+    "growth_rate": 7.2,
+    "top_skills": ["React", "Node.js", "Angular", "Java", "Python"],
+    "major_companies": [
+      "Cognizant",
+      "IPC",
+      "Audible",
+      "Bristol Myers Squibb",
+      "Johnson & Johnson"
+    ]
+  },
+  {
+    "state": "District of Columbia",
+    "abbreviation": "DC",
+    "value": 90,
+    "category": "GovTech & Cybersecurity Hub",
+    "job_count": 20000,
+    "avg_salary": 113000,
+    "remote_percentage": 72,
+    "growth_rate": 7.8,
+    "top_skills": ["Python", "Java", "JavaScript", "AWS", "Cybersecurity"],
+    "major_companies": [
+      "Booz Allen Hamilton",
+      "Deloitte",
+      "Accenture Federal",
+      "CACI",
+      "SAIC"
+    ]
+  },
+  {
+    "state": "Colorado",
+    "abbreviation": "CO",
+    "value": 86,
+    "category": "Startup Hub",
+    "job_count": 15000,
+    "avg_salary": 105000,
+    "remote_percentage": 88,
+    "growth_rate": 7.5,
+    "top_skills": ["React", "Node.js", "Python", "Docker", "Kubernetes"],
+    "major_companies": [
+      "Palantir",
+      "Qualtrics",
+      "SendGrid",
+      "Ping Identity",
+      "Guild Education"
+    ]
+  },
+  {
+    "state": "Utah",
+    "abbreviation": "UT",
+    "value": 85,
+    "category": "Silicon Slopes",
+    "job_count": 9000,
+    "avg_salary": 92000,
+    "remote_percentage": 88,
+    "growth_rate": 9.5,
+    "top_skills": ["React", "Node.js", "Angular", "Python", "MongoDB"],
+    "major_companies": [
+      "Qualtrics",
+      "Adobe",
+      "eBay",
+      "Overstock",
+      "Pluralsight"
+    ]
+  },
+  {
+    "state": "Illinois",
+    "abbreviation": "IL",
+    "value": 84,
+    "category": "Corporate Tech",
+    "job_count": 20000,
+    "avg_salary": 102000,
+    "remote_percentage": 70,
+    "growth_rate": 5.8,
+    "top_skills": ["React", "Angular", "Node.js", "Java", ".NET"],
+    "major_companies": [
+      "Boeing",
+      "McDonald's",
+      "Groupon",
+      "Grubhub",
+      "Cars.com"
+    ]
+  },
+  {
+    "state": "Virginia",
+    "abbreviation": "VA",
+    "value": 83,
+    "category": "Government Tech",
+    "job_count": 16000,
+    "avg_salary": 108000,
+    "remote_percentage": 65,
+    "growth_rate": 6.5,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "AWS"],
+    "major_companies": [
+      "Capital One",
+      "Booz Allen",
+      "CACI",
+      "SAIC",
+      "General Dynamics"
+    ]
+  },
+  {
+    "state": "Maryland",
+    "abbreviation": "MD",
+    "value": 82,
+    "category": "Cybersecurity Hub",
+    "job_count": 11000,
+    "avg_salary": 110000,
+    "remote_percentage": 68,
+    "growth_rate": 6.7,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "Python"],
+    "major_companies": [
+      "Lockheed Martin",
+      "Northrop Grumman",
+      "CyberCore",
+      "FireEye",
+      "Tenable"
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "abbreviation": "NC",
+    "value": 82,
+    "category": "Research Triangle",
+    "job_count": 14000,
+    "avg_salary": 95000,
+    "remote_percentage": 75,
+    "growth_rate": 8.1,
+    "top_skills": ["React", "Node.js", "Angular", "Python", "AWS"],
+    "major_companies": ["Red Hat", "SAS", "MetLife", "Credit Suisse", "Lenovo"]
+  },
+  {
+    "state": "Georgia",
+    "abbreviation": "GA",
+    "value": 81,
+    "category": "Business Tech Hub",
+    "job_count": 16000,
+    "avg_salary": 92000,
+    "remote_percentage": 73,
+    "growth_rate": 7.9,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "Python"],
+    "major_companies": [
+      "Mailchimp",
+      "NCR",
+      "Turner",
+      "Cox Enterprises",
+      "Home Depot"
+    ]
+  },
+  {
+    "state": "Minnesota",
+    "abbreviation": "MN",
+    "value": 80,
+    "category": "FinTech & Health Tech",
+    "job_count": 10000,
+    "avg_salary": 95000,
+    "remote_percentage": 77,
+    "growth_rate": 6.4,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "Python"],
+    "major_companies": [
+      "Target",
+      "Best Buy",
+      "3M",
+      "UnitedHealth",
+      "General Mills"
+    ]
+  },
+  {
+    "state": "Florida",
+    "abbreviation": "FL",
+    "value": 79,
+    "category": "Growing Tech Scene",
+    "job_count": 18000,
+    "avg_salary": 88000,
+    "remote_percentage": 80,
+    "growth_rate": 8.7,
+    "top_skills": ["React", "Node.js", "Angular", "PHP", "Python"],
+    "major_companies": [
+      "Magic Leap",
+      "AutoNation",
+      "Ultimate Software",
+      "Citrix",
+      "Modernizing Medicine"
+    ]
+  },
+  {
+    "state": "Arizona",
+    "abbreviation": "AZ",
+    "value": 78,
+    "category": "Desert Tech Hub",
+    "job_count": 12000,
+    "avg_salary": 90000,
+    "remote_percentage": 85,
+    "growth_rate": 8.3,
+    "top_skills": ["React", "Node.js", "Angular", "Java", "AWS"],
+    "major_companies": [
+      "GoDaddy",
+      "PayPal",
+      "Intel",
+      "Microchip",
+      "ON Semiconductor"
+    ]
+  },
+  {
+    "state": "Connecticut",
+    "abbreviation": "CT",
+    "value": 78,
+    "category": "Finance Tech",
+    "job_count": 6000,
+    "avg_salary": 105000,
+    "remote_percentage": 74,
+    "growth_rate": 4.8,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "C#"],
+    "major_companies": ["Aetna", "The Hartford", "Travelers", "IEX", "FactSet"]
+  },
+  {
+    "state": "Oregon",
+    "abbreviation": "OR",
+    "value": 77,
+    "category": "Creative Tech",
+    "job_count": 8000,
+    "avg_salary": 105000,
+    "remote_percentage": 90,
+    "growth_rate": 6.9,
+    "top_skills": ["React", "Node.js", "Python", "Ruby", "GraphQL"],
+    "major_companies": ["Nike", "Intel", "Puppet", "New Relic", "Jama Software"]
+  },
+  {
+    "state": "Delaware",
+    "abbreviation": "DE",
+    "value": 76,
+    "category": "Corporate Tech",
+    "job_count": 1800,
+    "avg_salary": 88000,
+    "remote_percentage": 75,
+    "growth_rate": 5.8,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "C#"],
+    "major_companies": [
+      "JPMorgan Chase",
+      "Bank of America",
+      "Capital One",
+      "DuPont",
+      "CSC"
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "abbreviation": "TN",
+    "value": 76,
+    "category": "Music & Tech",
+    "job_count": 8000,
+    "avg_salary": 85000,
+    "remote_percentage": 78,
+    "growth_rate": 8.0,
+    "top_skills": ["React", "Node.js", "Angular", "PHP", "Python"],
+    "major_companies": [
+      "HCA Healthcare",
+      "Asurion",
+      "Emma",
+      "Built Technologies",
+      "Tractor Supply"
+    ]
+  },
+  {
+    "state": "South Carolina",
+    "abbreviation": "SC",
+    "value": 75,
+    "category": "Manufacturing Tech",
+    "job_count": 5000,
+    "avg_salary": 78000,
+    "remote_percentage": 76,
+    "growth_rate": 7.3,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "Python"],
+    "major_companies": ["BMW", "Boeing", "Michelin", "Blackbaud", "SYNNEX"]
+  },
+  {
+    "state": "New Hampshire",
+    "abbreviation": "NH",
+    "value": 75,
+    "category": "Software Development",
+    "job_count": 2800,
+    "avg_salary": 85000,
+    "remote_percentage": 83,
+    "growth_rate": 5.7,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "Python"],
+    "major_companies": [
+      "Oracle",
+      "Dyn",
+      "DEKA Research",
+      "BAE Systems",
+      "C3.ai"
+    ]
+  },
+  {
+    "state": "Ohio",
+    "abbreviation": "OH",
+    "value": 75,
+    "category": "Industrial Tech",
+    "job_count": 12000,
+    "avg_salary": 82000,
+    "remote_percentage": 68,
+    "growth_rate": 5.5,
+    "top_skills": ["React", "Angular", "Node.js", ".NET", "Java"],
+    "major_companies": [
+      "Progressive",
+      "Nationwide",
+      "Cardinal Health",
+      "L Brands",
+      "American Electric Power"
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "abbreviation": "PA",
+    "value": 74,
+    "category": "Healthcare Tech",
+    "job_count": 14000,
+    "avg_salary": 88000,
+    "remote_percentage": 72,
+    "growth_rate": 6.1,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "Python"],
+    "major_companies": ["Comcast", "SAP", "IBM", "Vanguard", "UPMC"]
+  },
+  {
+    "state": "Nevada",
+    "abbreviation": "NV",
+    "value": 74,
+    "category": "Gaming & Hospitality Tech",
+    "job_count": 4500,
+    "avg_salary": 88000,
+    "remote_percentage": 82,
+    "growth_rate": 7.2,
+    "top_skills": ["React", "Node.js", "Angular", "PHP", "Python"],
+    "major_companies": ["Tesla", "Switch", "Zappos", "Scientific Games", "IGT"]
+  },
+  {
+    "state": "Rhode Island",
+    "abbreviation": "RI",
+    "value": 73,
+    "category": "Healthcare Tech",
+    "job_count": 1500,
+    "avg_salary": 82000,
+    "remote_percentage": 78,
+    "growth_rate": 5.4,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "Python"],
+    "major_companies": [
+      "CVS Health",
+      "Citizens Bank",
+      "Textron",
+      "Hasbro",
+      "Gilbane"
+    ]
+  },
+  {
+    "state": "Michigan",
+    "abbreviation": "MI",
+    "value": 73,
+    "category": "Auto Tech",
+    "job_count": 10000,
+    "avg_salary": 85000,
+    "remote_percentage": 70,
+    "growth_rate": 6.8,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "Python"],
+    "major_companies": [
+      "Ford",
+      "General Motors",
+      "Quicken Loans",
+      "DTE Energy",
+      "Blue Cross Blue Shield"
+    ]
+  },
+  {
+    "state": "Missouri",
+    "abbreviation": "MO",
+    "value": 72,
+    "category": "Enterprise Tech",
+    "job_count": 7000,
+    "avg_salary": 80000,
+    "remote_percentage": 73,
+    "growth_rate": 5.8,
+    "top_skills": ["React", "Angular", "Node.js", "Java", ".NET"],
+    "major_companies": [
+      "Cerner",
+      "Express Scripts",
+      "Emerson",
+      "Monsanto",
+      "Edward Jones"
+    ]
+  },
+  {
+    "state": "Idaho",
+    "abbreviation": "ID",
+    "value": 72,
+    "category": "Semiconductor Tech",
+    "job_count": 2200,
+    "avg_salary": 78000,
+    "remote_percentage": 87,
+    "growth_rate": 8.5,
+    "top_skills": ["React", "Node.js", "Angular", "Python", "Java"],
+    "major_companies": [
+      "Micron Technology",
+      "Clearwater Analytics",
+      "Cradlepoint",
+      "ClickBank",
+      "Kount"
+    ]
+  },
+  {
+    "state": "Wisconsin",
+    "abbreviation": "WI",
+    "value": 71,
+    "category": "Manufacturing Tech",
+    "job_count": 6000,
+    "avg_salary": 78000,
+    "remote_percentage": 75,
+    "growth_rate": 5.2,
+    "top_skills": ["React", "Angular", "Node.js", ".NET", "Java"],
+    "major_companies": [
+      "Johnson Controls",
+      "Northwestern Mutual",
+      "Harley-Davidson",
+      "Epic Systems",
+      "Kohl's"
+    ]
+  },
+  {
+    "state": "Vermont",
+    "abbreviation": "VT",
+    "value": 71,
+    "category": "Sustainable Tech",
+    "job_count": 1200,
+    "avg_salary": 75000,
+    "remote_percentage": 90,
+    "growth_rate": 6.1,
+    "top_skills": ["React", "Node.js", "Angular", "Python", "Ruby"],
+    "major_companies": [
+      "IBM",
+      "GlobalFoundries",
+      "Ben & Jerry's",
+      "Burton",
+      "Dealer.com"
+    ]
+  },
+  {
+    "state": "Indiana",
+    "abbreviation": "IN",
+    "value": 70,
+    "category": "Logistics Tech",
+    "job_count": 5500,
+    "avg_salary": 75000,
+    "remote_percentage": 72,
+    "growth_rate": 6.1,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "PHP"],
+    "major_companies": [
+      "Salesforce",
+      "Angie's List",
+      "Interactive Intelligence",
+      "ExactTarget",
+      "Roche Diagnostics"
+    ]
+  },
+  {
+    "state": "Maine",
+    "abbreviation": "ME",
+    "value": 70,
+    "category": "Remote-First Tech",
+    "job_count": 1800,
+    "avg_salary": 78000,
+    "remote_percentage": 92,
+    "growth_rate": 6.3,
+    "top_skills": ["React", "Node.js", "Angular", "Python", "Ruby"],
+    "major_companies": ["WEX", "Tyler Technologies", "ImmuCell", "Idexx", "Via"]
+  },
+  {
+    "state": "Nebraska",
+    "abbreviation": "NE",
+    "value": 69,
+    "category": "FinTech",
+    "job_count": 2500,
+    "avg_salary": 72000,
+    "remote_percentage": 79,
+    "growth_rate": 6.0,
+    "top_skills": ["React", "Angular", "Node.js", "Java", ".NET"],
+    "major_companies": [
+      "Berkshire Hathaway",
+      "Mutual of Omaha",
+      "ConAgra",
+      "First National Bank",
+      "Hudl"
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "abbreviation": "KY",
+    "value": 68,
+    "category": "Logistics & Healthcare Tech",
+    "job_count": 4000,
+    "avg_salary": 72000,
+    "remote_percentage": 74,
+    "growth_rate": 6.0,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "PHP"],
+    "major_companies": [
+      "UPS",
+      "Humana",
+      "Yum! Brands",
+      "Lexmark",
+      "Papa John's"
+    ]
+  },
+  {
+    "state": "Hawaii",
+    "abbreviation": "HI",
+    "value": 68,
+    "category": "Tourism Tech",
+    "job_count": 1400,
+    "avg_salary": 85000,
+    "remote_percentage": 88,
+    "growth_rate": 6.5,
+    "top_skills": ["React", "Node.js", "Angular", "PHP", "Python"],
+    "major_companies": [
+      "Hawaiian Airlines",
+      "Alexander & Baldwin",
+      "Oceanit",
+      "Blue Planet Software",
+      "Hobnob"
+    ]
+  },
+  {
+    "state": "Kansas",
+    "abbreviation": "KS",
+    "value": 68,
+    "category": "AgTech",
+    "job_count": 3500,
+    "avg_salary": 72000,
+    "remote_percentage": 76,
+    "growth_rate": 5.5,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "PHP"],
+    "major_companies": [
+      "Garmin",
+      "Sprint",
+      "Black & Veatch",
+      "Cerner",
+      "AMC Entertainment"
+    ]
+  },
+  {
+    "state": "Alabama",
+    "abbreviation": "AL",
+    "value": 67,
+    "category": "Aerospace & Defense Tech",
+    "job_count": 4200,
+    "avg_salary": 74000,
+    "remote_percentage": 71,
+    "growth_rate": 6.4,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "C++"],
+    "major_companies": [
+      "Boeing",
+      "Lockheed Martin",
+      "NASA",
+      "ADTRAN",
+      "Intergraph"
+    ]
+  },
+  {
+    "state": "Iowa",
+    "abbreviation": "IA",
+    "value": 67,
+    "category": "InsurTech",
+    "job_count": 3000,
+    "avg_salary": 70000,
+    "remote_percentage": 78,
+    "growth_rate": 5.8,
+    "top_skills": ["React", "Angular", "Node.js", "Java", ".NET"],
+    "major_companies": [
+      "Principal Financial",
+      "Casey's",
+      "Hy-Vee",
+      "Workiva",
+      "Pella"
+    ]
+  },
+  {
+    "state": "Oklahoma",
+    "abbreviation": "OK",
+    "value": 66,
+    "category": "Energy Tech",
+    "job_count": 3200,
+    "avg_salary": 68000,
+    "remote_percentage": 74,
+    "growth_rate": 6.2,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "PHP"],
+    "major_companies": [
+      "Devon Energy",
+      "Chesapeake Energy",
+      "ONEOK",
+      "Paycom",
+      "Love's Travel Stops"
+    ]
+  },
+  {
+    "state": "Arkansas",
+    "abbreviation": "AR",
+    "value": 65,
+    "category": "Retail Tech",
+    "job_count": 2800,
+    "avg_salary": 65000,
+    "remote_percentage": 80,
+    "growth_rate": 6.8,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "PHP"],
+    "major_companies": [
+      "Walmart",
+      "Tyson Foods",
+      "J.B. Hunt",
+      "Dillard's",
+      "Windstream"
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "abbreviation": "LA",
+    "value": 64,
+    "category": "Petrotech",
+    "job_count": 3000,
+    "avg_salary": 70000,
+    "remote_percentage": 72,
+    "growth_rate": 5.1,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "PHP"],
+    "major_companies": ["IBM", "CGI", "Geocent", "Turbosquid", "GE Digital"]
+  },
+  {
+    "state": "Montana",
+    "abbreviation": "MT",
+    "value": 64,
+    "category": "AgTech & Remote",
+    "job_count": 1000,
+    "avg_salary": 70000,
+    "remote_percentage": 89,
+    "growth_rate": 7.1,
+    "top_skills": ["React", "Node.js", "Angular", "Python", "PHP"],
+    "major_companies": [
+      "Oracle",
+      "RightNow Technologies",
+      "OnX Maps",
+      "Submittable",
+      "PowerSchool"
+    ]
+  },
+  {
+    "state": "South Dakota",
+    "abbreviation": "SD",
+    "value": 63,
+    "category": "Financial Services Tech",
+    "job_count": 900,
+    "avg_salary": 68000,
+    "remote_percentage": 81,
+    "growth_rate": 6.2,
+    "top_skills": ["React", "Angular", "Node.js", "Java", ".NET"],
+    "major_companies": [
+      "Citigroup",
+      "Wells Fargo",
+      "Premier Bankcard",
+      "Daktronics",
+      "Raven Industries"
+    ]
+  },
+  {
+    "state": "New Mexico",
+    "abbreviation": "NM",
+    "value": 63,
+    "category": "Research Tech",
+    "job_count": 2000,
+    "avg_salary": 75000,
+    "remote_percentage": 81,
+    "growth_rate": 5.9,
+    "top_skills": ["React", "Angular", "Node.js", "Python", "Java"],
+    "major_companies": [
+      "Intel",
+      "Microsoft",
+      "Sandia Labs",
+      "Los Alamos Labs",
+      "Descartes Labs"
+    ]
+  },
+  {
+    "state": "Alaska",
+    "abbreviation": "AK",
+    "value": 62,
+    "category": "Resource Tech",
+    "job_count": 800,
+    "avg_salary": 78000,
+    "remote_percentage": 85,
+    "growth_rate": 4.9,
+    "top_skills": ["React", "Angular", "Node.js", "Python", "Java"],
+    "major_companies": [
+      "ConocoPhillips",
+      "BP",
+      "ExxonMobil",
+      "GCI",
+      "Arctic Slope Regional"
+    ]
+  },
+  {
+    "state": "Mississippi",
+    "abbreviation": "MS",
+    "value": 62,
+    "category": "Government & Agriculture Tech",
+    "job_count": 2200,
+    "avg_salary": 65000,
+    "remote_percentage": 77,
+    "growth_rate": 5.7,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "PHP"],
+    "major_companies": [
+      "Nissan",
+      "Ingalls Shipbuilding",
+      "FNC",
+      "Easterseals",
+      "C Spire"
+    ]
+  },
+  {
+    "state": "North Dakota",
+    "abbreviation": "ND",
+    "value": 61,
+    "category": "Oil & Gas Tech",
+    "job_count": 700,
+    "avg_salary": 75000,
+    "remote_percentage": 82,
+    "growth_rate": 6.8,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "Python"],
+    "major_companies": [
+      "Microsoft",
+      "Appareo Systems",
+      "Intelligent InSites",
+      "Bushel",
+      "BNG Team"
+    ]
+  },
+  {
+    "state": "Wyoming",
+    "abbreviation": "WY",
+    "value": 60,
+    "category": "Energy & Mining Tech",
+    "job_count": 600,
+    "avg_salary": 72000,
+    "remote_percentage": 84,
+    "growth_rate": 5.3,
+    "top_skills": ["React", "Angular", "Node.js", "Java", "Python"],
+    "major_companies": [
+      "Cloud Peak Energy",
+      "Peabody Energy",
+      "Halliburton",
+      "Schlumberger",
+      "Microsoft"
+    ]
+  },
+  {
+    "state": "West Virginia",
+    "abbreviation": "WV",
+    "value": 59,
+    "category": "Energy & Government Tech",
+    "job_count": 1500,
+    "avg_salary": 68000,
+    "remote_percentage": 79,
+    "growth_rate": 4.8,
+    "top_skills": ["React", "Angular", "Node.js", "Java", ".NET"],
+    "major_companies": [
+      "Charleston Area Medical Center",
+      "APCO",
+      "Intuit",
+      "CGI",
+      "IBM"
+    ]
+  }
+]
