@@ -47,8 +47,8 @@ A production-ready, interactive US map component for React/Next.js applications.
 
 ```bash
 # Clone the repo
-git clone https://github.com/xi-Rick/nextjs-us-map.git
-cd nextjs-us-map
+git clone https://github.com/xi-Rick/us-map.git
+cd us-map
 
 # Install dependencies
 pnpm install
@@ -157,8 +157,8 @@ All of these work interchangeably:
 Ideas, issues, and pull requests welcome!
 
 ```bash
-git clone https://github.com/xi-Rick/nextjs-us-map.git
-cd nextjs-us-map
+git clone https://github.com/xi-Rick/us-map.git
+cd us-map
 pnpm install
 pnpm dev
 ```
@@ -169,6 +169,6 @@ pnpm dev
 
 **🗺️ Build stunning data visualizations with ease!**
 
-*Made with 🩷 — by [Dana](https://github.com/xi-Rick)*
+*Made with ❤️ — by [Dana](https://github.com/xi-Rick)*
 
 </div>
